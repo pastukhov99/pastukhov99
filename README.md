@@ -29,7 +29,7 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Monthly Retention](https://github.com/pastukhov99/Cohort_analysis)|Проанализирована работа интернет кошелька в части удержания пользователей, построена месячная когорта по пользователям|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
-
+|Пример дэшборда в [Tableau](https://public.tableau.com/app/profile/sergey.pastukhov/viz/1stProject-Analysisofthecustomersupportservice/Dashboard1)|Анализ клиентской службы бронирования отелей|**Tableau**|
 
 <hr>
 
