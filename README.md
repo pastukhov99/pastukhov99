@@ -29,8 +29,8 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Monthly Retention](https://github.com/pastukhov99/Cohort_analysis)|Проанализирована работа интернет кошелька в части удержания пользователей, построена месячная когорта по пользователям|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
-|[Audio_Analytics](https://github.com/pastukhov99/Cohort_analysis)|Проанализирована работа компании по оптовой продаже аудиотехники|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
-|[Mobile_Games](https://github.com/pastukhov99/Cohort_analysis)|Проанализирована работа интернет кошелька в части удержания пользователей, построена месячная когорта по пользователям|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
+|[Audio_Analytics](https://github.com/pastukhov99/Audio_analytics)|Проанализирована работа компании по оптовой продаже аудиотехники|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
+|[Mobile_Games](https://github.com/pastukhov99/Mobile_games)|Построена когорта по пользователям с момента регистрации в приложении и написана функция расчета retention, проведен А/B тест для сравнения различных наборов акционных предложений по таким метрикам как: ARPU, ARPPU и Conversion Rate. Также предложены новые метрики оценки эффективности ивентовых событий проводимых в игре|**Pandas** **Numpy** **Seaborn** **Scipy** **Matplotlib**|
 |Пример дэшборда в [Tableau](https://public.tableau.com/app/profile/sergey.pastukhov/viz/1stProject-Analysisofthecustomersupportservice/Dashboard1)|Анализ клиентской службы бронирования отелей|**Tableau**|
 |[Динамика роста пользователей и курьеров в сервисе доставки](https://github.com/pastukhov99/Dynamics_users_and_couriers/tree/main)|Написан запрос для анализа динамики роста пользователей и курьеров в сервисе доставки еды, использованы CTE, вложенные запросы, Join, оконные функции|**SQL** **Redash**|
 <hr>
